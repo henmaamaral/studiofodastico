@@ -1,3 +1,3 @@
 document.getElementById('sendBtn').addEventListener('click', function() { 
-    alert('Obrigado! Sua mensagem será ignorada. 🖕🏻🙄🖕🏻');
+    alert('Obrigado por nada. 🙄🙏🏼');
 });
