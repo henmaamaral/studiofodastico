@@ -1,3 +1,3 @@
 document.getElementById('sendBtn').addEventListener('click', function() { 
-    alert('Obrigado por nada. 🙄🙏🏼');
+    alert('Número para contato (15)4002-8922');
 });
