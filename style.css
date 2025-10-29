@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    background-color: #ffffff; 
+    color: #000000; 
+}
+
+header {
+    background-color: #afacac; 
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 48px;
+    color: #000000; 
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #ffffff; 
+    font-size: 25px;
+}
+
+.banner {
+    background-image: url('https://via.placeholder.com/1200x400'); 
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    align-items: center;
+    color: #000000; 
+    font-size: 36px;
+    text-align: center;
+}
+
+.services {
+    background-color: #ffffff; 
+    padding: 40px;
+    line-height: 1.1;
+    text-align: center;
+}
+
+.services p {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.team {
+    background-color: #ffffff; 
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.team div {
+    text-align: center;
+}
+
+.team img {
+    width: 400px;
+    height: 400px;
+    margin-bottom: 10px;
+    border-radius: 1000px;
+}
+
+.team p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 20px;
+    color: #000000;
+}
+
+.contact {
+    background-color: #c7c7c7; 
+    padding: 40px;
+    color: #000000; 
+}
+
+.contact input, .contact textarea {
+    display: block;
+    width: 80%;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ffffff; 
+}
+
+.contact button {
+    background-color: #ffffff; 
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #afacac   ; 
+    text-align: center;
+    padding: 20px;
+    font-family: "Comic Sans MS", cursive;
+}
+
+footer a {
+    color: #000000;
+    text-decoration: none;
+    margin: 0 5px;
+}
+footer a:hover {
+    color: #0f004b;
+    scale: 1.2;
+
+}
